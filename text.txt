@@ -1,0 +1,7 @@
+javac *.javac
+
+1. rmiregistry
+
+2. java Server
+
+3. java Client
